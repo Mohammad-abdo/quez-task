@@ -1,0 +1,37 @@
+.navColor{
+    color: wheat !important;
+    background: linear-gradient(to top,#b8c4c7,#014360) !important;
+    height: 100% !important;
+}
+
+
+.logo{
+    font-size: 30px !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin: 20px 30px !important;
+    color: white;
+}
+.ListItem{
+    padding: 10px !important;
+
+}
+.ListItem:hover{
+background-color: rgb(255, 255, 255) !important;
+
+
+color: #0a3142 !important;
+}
+.ListItemIcon{
+    color: white;
+    font-size: 35px !important;
+    font-weight: bold !important;
+}
+.ListItem:hover .ListItemIcon{
+    background-color: rgb(255, 255, 255) !important;
+    color: #0a3142 !important;
+    }
+    .ListItemText{
+        font-size: 60px !important;
+        font-weight:bold !important;
+    }

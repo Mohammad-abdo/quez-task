@@ -1,0 +1,24 @@
+
+.nvabar{
+    box-shadow: none important;
+    background:white !important;
+    padding:  2-0px 0;
+   
+}
+.Typography{
+    color: #171718ba !important;
+}
+
+.navIcon{
+    color: #025a80 !important;
+    font-size: 30px;
+    box-shadow: none !important;
+    margin: 0 5px;
+}
+
+.searchInput{
+    margin: auto 0;
+    height: 45px;
+    border-radius: 25px !important;
+    border: 1px solid #00000034 !important;
+}

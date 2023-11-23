@@ -1,0 +1,25 @@
+.topSection{
+    height: auto;
+    background: linear-gradient(to left,#d2f5fd,#ffffff) !important;
+    margin: .7em 0 1.4em 0 !important;
+    border-radius:  15px;
+    box-shadow: 2px 1px 2px #1717178e;
+}
+.h1{
+    font-family: 'Lucida Sans';
+    color: #3494bd;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.viewButton{
+    background: linear-gradient(to left,#8db2bb,#187197) !important;
+}
+.bgImg{
+    background:  url(../../../public/images/school.png);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    object-fit: cover;
+    height: 100%;
+}
